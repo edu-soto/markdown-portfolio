@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+I love many things
+* maths
+* music
+   + classical
+   + rock
+   + heavy
+   + indie
+   + trap
+* coding competitions
+* mountain bikes
