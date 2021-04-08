@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Amusing properties of mine.
+
+* I am a _human_
+* I like **breathing**
+* _I_ was born
+* _I tend to sleep **once** a day._
